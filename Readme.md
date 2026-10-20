@@ -98,9 +98,6 @@ These results were obtained on the validation split used during model developmen
 ResNet18 achieved substantially higher validation accuracy than
 the baseline CNN in the current experiment.
 
-These results describe performance on the validation split.
-They should not be interpreted as a guarantee of performance
-on images from different industrial environments.
 
 ## Evaluation
 
