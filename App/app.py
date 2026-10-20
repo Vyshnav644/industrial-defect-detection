@@ -1,8 +1,16 @@
+import sys
 import tempfile
 from pathlib import Path
 
 import streamlit as st
 from PIL import Image
+
+# Locate the project root directory
+ROOT_DIR = Path(__file__).resolve().parent.parent
+
+# Add the project root to Python's module search path
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
 
 from Models.predict import predict_defect
 
