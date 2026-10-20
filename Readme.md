@@ -93,6 +93,8 @@ Validation accuracy: **98.61%**
 | Baseline CNN | 71.94% |
 | ResNet18 | 98.61% |
 
+These results were obtained on the validation split used during model development. Further evaluation on an independent test set is required to estimate generalization to unseen industrial images.
+
 ResNet18 achieved substantially higher validation accuracy than
 the baseline CNN in the current experiment.
 
