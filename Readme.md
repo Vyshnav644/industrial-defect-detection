@@ -143,7 +143,6 @@ Industrial_Defect_Detection/
 │   ├── Processed/
 │   ├── Raw/
 │   └── Splits/
-├── Evaluation/
 ├── Models/
 │   ├── class_mapping.json
 │   ├── model.py
@@ -154,10 +153,8 @@ Industrial_Defect_Detection/
 │   └── 02_cnn_training.ipynb
 ├── Preprocessing/
 │   └── preprocessing.py
-├── Results/
 ├── Training/
 │   └── train.py
-├── Visualization/
 ├── Readme.md
 └── Requirements.txt
 ```
