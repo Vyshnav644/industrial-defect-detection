@@ -168,8 +168,8 @@ artifacts and outputs.
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd Industrial_Defect_Detection
+git clone https://github.com/Vyshnav644/industrial-defect-detection.git
+cd industrial-defect-detection
 ```
 
 Replace the placeholder with the actual repository URL.
